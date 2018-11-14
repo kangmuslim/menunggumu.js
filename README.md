@@ -1,0 +1,2 @@
+# menunggumu.js
+menunggumu
